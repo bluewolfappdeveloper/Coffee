@@ -1,0 +1,46 @@
+F:\coffee\coffee\bin\Release\coffee.exe.config
+F:\coffee\coffee\bin\Release\coffee.exe
+F:\coffee\coffee\bin\Release\coffee.pdb
+F:\coffee\coffee\obj\Release\coffee.frmcheck.resources
+F:\coffee\coffee\obj\Release\coffee.frmsellbill.resources
+F:\coffee\coffee\obj\Release\coffee.frmabout.resources
+F:\coffee\coffee\obj\Release\coffee.frmbill.resources
+F:\coffee\coffee\obj\Release\coffee.frmcustomer.resources
+F:\coffee\coffee\obj\Release\coffee.frmhome.resources
+F:\coffee\coffee\obj\Release\coffee.frmaccount.resources
+F:\coffee\coffee\obj\Release\coffee.frminformation.resources
+F:\coffee\coffee\obj\Release\coffee.frmitem.resources
+F:\coffee\coffee\obj\Release\coffee.frmlistemployer.resources
+F:\coffee\coffee\obj\Release\coffee.frmlogin.resources
+F:\coffee\coffee\obj\Release\coffee.frmsell.resources
+F:\coffee\coffee\obj\Release\coffee.Properties.Resources.resources
+F:\coffee\coffee\obj\Release\coffee.Report.frmbillcheck.resources
+F:\coffee\coffee\obj\Release\coffee.Report.frmtakebill.resources
+F:\coffee\coffee\obj\Release\coffee.Report.frmbillsell.resources
+F:\coffee\coffee\obj\Release\coffee.csproj.GenerateResource.Cache
+F:\coffee\coffee\obj\Release\coffee.exe
+F:\coffee\coffee\obj\Release\coffee.pdb
+F:\coffee\coffee\obj\Release\coffee.csprojResolveAssemblyReference.cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Release\coffee.exe.config
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.exe
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.pdb
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.csprojResolveAssemblyReference.cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmcheck.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmsellbill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmabout.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmbill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmcustomer.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmhome.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmaccount.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frminformation.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmitem.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmlistemployer.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmlogin.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.frmsell.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.Properties.Resources.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.Report.frmbillcheck.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.Report.frmtakebill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.Report.frmbillsell.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Release\coffee.csproj.GenerateResource.Cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Release\coffee.exe
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Release\coffee.pdb

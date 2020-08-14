@@ -1,0 +1,91 @@
+F:\coffee\coffee\bin\Debug\coffee.exe
+F:\coffee\coffee\bin\Debug\coffee.pdb
+F:\coffee\coffee\obj\Debug\coffee.frmlogin.resources
+F:\coffee\coffee\obj\Debug\coffee.Properties.Resources.resources
+F:\coffee\coffee\obj\Debug\coffee.csproj.GenerateResource.Cache
+F:\coffee\coffee\obj\Debug\coffee.exe
+F:\coffee\coffee\obj\Debug\coffee.pdb
+F:\coffee\coffee\obj\Debug\coffee.frmhome.resources
+F:\coffee\coffee\obj\Debug\coffee.frmabout.resources
+F:\coffee\coffee\obj\Debug\coffee.frmitem.resources
+F:\coffee\coffee\obj\Debug\coffee.frminformation.resources
+F:\coffee\coffee\obj\Debug\coffee.frmaccount.resources
+F:\coffee\coffee\obj\Debug\coffee.frmsell.resources
+F:\coffee\coffee\bin\Debug\coffee.exe.config
+F:\Phần mềm chưa xong\coffee\coffee\bin\Debug\coffee.exe.config
+F:\Phần mềm chưa xong\coffee\coffee\obj\Debug\coffee.exe
+F:\Phần mềm chưa xong\coffee\coffee\obj\Debug\coffee.pdb
+F:\coffee\coffee\obj\Debug\coffee.Report.frmbillsell.resources
+F:\coffee\coffee\obj\Debug\coffee.frmlistemployer.resources
+F:\coffee\coffee\obj\Debug\coffee.frmcustomer.resources
+F:\coffee\coffee\obj\Debug\coffee.frmbill.resources
+F:\coffee\coffee\obj\Debug\coffee.Report.frmtakebill.resources
+F:\coffee\coffee\obj\Debug\coffee.frmsellbill.resources
+F:\coffee\coffee\obj\Debug\coffee.csprojResolveAssemblyReference.cache
+F:\coffee\coffee\obj\Debug\coffee.frmcheck.resources
+F:\coffee\coffee\obj\Debug\coffee.Report.frmbillcheck.resources
+F:\coffee\coffee\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.Shared.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\coffee\coffee\bin\Debug\DevComponents.DotNetBar2.dll
+F:\coffee\coffee\bin\Debug\FlashControlV71.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\coffee\coffee\bin\Debug\ShockwaveFlashObjects.dll
+F:\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\coffee\coffee\bin\Debug\stdole.dll
+F:\coffee\coffee\bin\Debug\DevComponents.DotNetBar2.xml
+F:\coffee\coffee\obj\Debug\coffee.csproj.CoreCompileInputs.cache
+F:\coffee\coffee\obj\Debug\coffee.csproj.CopyComplete
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\coffee.exe.config
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\coffee.exe
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\coffee.pdb
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\FlashControlV71.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\ShockwaveFlashObjects.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\stdole.dll
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.csprojResolveAssemblyReference.cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmcheck.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmsellbill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmabout.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmbill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmcustomer.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmhome.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmaccount.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frminformation.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmitem.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmlistemployer.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmlogin.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.frmsell.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.Properties.Resources.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.Report.frmbillcheck.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.Report.frmtakebill.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.Report.frmbillsell.resources
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.csproj.GenerateResource.cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.csproj.CoreCompileInputs.cache
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.csproj.CopyComplete
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.exe
+F:\Tiger\Program\Phan mem ung dung\coffee\coffee\obj\Debug\coffee.pdb
